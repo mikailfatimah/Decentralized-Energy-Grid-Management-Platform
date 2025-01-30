@@ -7,3 +7,5 @@ L
 tests/energy-trading.test.ts,9/c/9cba7fe1dec9bcb62306bf4705154e7113ca0c31
 \
 ,contracts/energy-production-consumption.clar,a/1/a1d746556f99c0ce4e3b565d647485e51e719c8c
+[
++tests/energy-production-consumption.test.ts,e/e/ee970d982f8d2d9837291e230553435867b9d7d5
