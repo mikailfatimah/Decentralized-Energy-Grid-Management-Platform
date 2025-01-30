@@ -9,3 +9,7 @@ L
 ,contracts/energy-production-consumption.clar,a/1/a1d746556f99c0ce4e3b565d647485e51e719c8c
 [
 +tests/energy-production-consumption.test.ts,e/e/ee970d982f8d2d9837291e230553435867b9d7d5
+J
+contracts/energy-nft_.clar,e/2/e225f3526d1119242f630278d76307b2f0d746b7
+I
+contracts/energy-nft.clar,d/d/ddd5968b5e5e2462b44f70a2d28d4aab4c0ea0f0
