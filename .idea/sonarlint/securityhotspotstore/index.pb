@@ -13,3 +13,5 @@ J
 contracts/energy-nft_.clar,e/2/e225f3526d1119242f630278d76307b2f0d746b7
 I
 contracts/energy-nft.clar,d/d/ddd5968b5e5e2462b44f70a2d28d4aab4c0ea0f0
+H
+tests/energy-nft.test.ts,f/e/fe76c1358373eaf78b834692ec3a6516c08c8e98
